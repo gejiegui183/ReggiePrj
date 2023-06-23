@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/AddressBook.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/Dish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/DishFlavor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/Employee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/OrderDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/Orders.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/Setmeal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/SetmealDish.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/ShoppingCart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Reggie/entity/User.java" charset="GBK" />
+  </component>
+</project>
